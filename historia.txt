@@ -1,4 +1,4 @@
 Hola mi nombre es Carolina Segura,
  de Colombia y vivo en Bogota D.C
 estoy aprendiendo para ser una programadora junior
-Mnajoe java, c++ y SQl
+Manejo java, c++ y SQl y estoy aprendiendo Git.
